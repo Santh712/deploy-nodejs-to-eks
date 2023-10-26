@@ -1,2 +1,1 @@
-# deploy-nodejs-to-eks
-nodejs deploy for test
+# deploy-nodejs-app-to-EKS-using-GitHub-Actions
